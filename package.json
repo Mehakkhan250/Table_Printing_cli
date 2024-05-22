@@ -1,0 +1,20 @@
+{
+  "name": "@mehakkhan250/1.table_printing_cli",
+  "version": "1.0.0",
+  "description": "This is Table Printing Cli, users can enter any number table to print that number",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "table.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
